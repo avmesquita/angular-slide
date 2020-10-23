@@ -22,27 +22,27 @@ export class SliderComponent implements AfterViewInit {
 
   items: SlideItem[] = [
     {
-      src: "",
+      src: "/assets/card-ok.png",
       title: "Slide 1"
     },
     {
-      src: "",
+      src: "/assets/card-ok.png",
       title: "Slide 2"
     },
     {
-      src: "",
+      src: "/assets/card-ok.png",
       title: "Slide 3"
     },
     {
-      src: "",
+      src: "/assets/card-ok.png",
       title: "Slide 4"
     },
     {
-      src: "",
+      src: "/assets/card-ok.png",
       title: "Slide 5"
     },
     {
-      src: "",
+      src: "/assets/card-ok.png",
       title: "Slide 6"
     }
   ];
