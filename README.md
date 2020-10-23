@@ -1,4 +1,4 @@
-# angular-ivy-yy2k6t
+# angular-slide
 
 Angular Component based on [origamid/slide](https://github.com/origamid/slide) project.
 
