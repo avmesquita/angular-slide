@@ -1,0 +1,16 @@
+.slide-wrapper {
+  overflow: hidden;
+}
+
+.slide {
+  display: flex;
+}
+
+.slide:hover {
+  will-change: transform;
+}
+
+.slide li.active {
+  opacity: 1;
+  transform: scale(1);
+}

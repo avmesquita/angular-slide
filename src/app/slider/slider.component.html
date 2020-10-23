@@ -1,0 +1,8 @@
+<div #slideWrapper class="slide-wrapper">
+  <ul #slideContainer class="slides slide">
+    <li *ngFor="let item of items">
+      <img src="{{ item.src }}" />
+      <p>{{ item.title }}</p>
+    </li>
+  </ul>
+</div>
